@@ -1,0 +1,7 @@
+
+    A la fecha: Sun Jan 02 2022 01:34:43 GMT-0300 (hora de verano de Chile)
+    Fue realizada cotización con los siguientes datos:
+    Cantidad de pesos a convertir: 5000 pesos
+    Convertido a "bitcoin" da un total de:
+    0
+    
